@@ -6,13 +6,14 @@ x = 0
 x += 1
 
 if (x % 15 == 0)
-	p "mined_minds"
+	puts "mined_minds"
 elsif (x % 3 == 0)
-	p "mined"
+	puts "mined"
 elsif (x % 5 == 0)
-	p "minds"
+	puts "minds"
 else
 	puts x
 end
 
 end
+
