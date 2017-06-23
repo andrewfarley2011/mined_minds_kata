@@ -1,4 +1,5 @@
 print "Hello World\n"
+print "\n"
 
 x = 0
 
